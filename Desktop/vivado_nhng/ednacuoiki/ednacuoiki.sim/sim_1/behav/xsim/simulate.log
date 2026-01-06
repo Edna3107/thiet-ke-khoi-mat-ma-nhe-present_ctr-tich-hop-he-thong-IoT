@@ -1,0 +1,124 @@
+Time resolution is 1 ps
+Note: ========================================================
+Time: 40 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   PRESENT_CTR MODE TESTBENCH
+Time: 40 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   Using Standard PRESENT Test Vectors
+Time: 40 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note: ========================================================
+Time: 40 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note: 
+Time: 40 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note: TEST 1: Vector #1 - Verify Keystream Generation
+Time: 40 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   Counter_block = 0x0000000000000000
+Time: 40 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   Key           = 0x00000000000000000000
+Time: 40 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   Expected keystream = 0x5579C1387B228445
+Time: 40 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   DEBUG: plaintext = 0
+Time: 430 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   DEBUG: keystream expected = 69
+Time: 430 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   DEBUG: ciphertext actual = 69
+Time: 430 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   TEST 1 PASSED!
+Time: 430 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note: 
+Time: 480 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note: TEST 2: Vector #2 - Different Key, P=0
+Time: 480 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   Counter_block = 0x0000000000000000
+Time: 480 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   Key           = 0xFFFFFFFFFFFFFFFFFFFF
+Time: 480 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   Expected keystream = 0xE72C46C0F5945049
+Time: 480 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   TEST 2 PASSED!
+Time: 870 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note: 
+Time: 920 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note: TEST 3: Vector #3 - Testing with P=ALL 1s
+Time: 920 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   Key = 0x00000000000000000000
+Time: 920 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   TEST 3: Functional test (counter=0, not matching std vector)
+Time: 1310 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   TEST 3 COMPLETED
+Time: 1310 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note: 
+Time: 1360 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note: TEST 4: Vector #4 - All 1s inputs
+Time: 1360 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   Key = 0xFFFFFFFFFFFFFFFFFFFF
+Time: 1360 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   TEST 4: Functional test completed
+Time: 1750 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   TEST 4 COMPLETED
+Time: 1750 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note: 
+Time: 1800 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note: TEST 5: CTR Sequential Blocks (Counter Increment)
+Time: 1800 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   Block 1 completed
+Time: 2150 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   Block 2 completed
+Time: 2550 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   TEST 5: Counter increments (outputs differ)
+Time: 2550 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   TEST 5 PASSED!
+Time: 2550 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note: 
+Time: 2600 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note: TEST 6: CTR Encryption/Decryption Symmetry
+Time: 2600 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   Original:    0xDEADBEEFCAFEBABE
+Time: 2990 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   Encryption completed
+Time: 2990 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   TEST 6 PASSED! Enc/Dec symmetric
+Time: 3430 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note: 
+Time: 3480 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note: TEST 7: Control Signal Behavior
+Time: 3480 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   Done asserted
+Time: 3825 ns  Iteration: 2  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   Done stays HIGH when start held
+Time: 3925 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   Done clears when start released
+Time: 3945 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   TEST 7 PASSED!
+Time: 3945 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note: 
+Time: 3995 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note: TEST 8: Back-to-back Operations
+Time: 3995 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   Block completed
+Time: 4350 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   Block completed
+Time: 4730 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   Block completed
+Time: 5110 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   Block completed
+Time: 5490 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   Block completed
+Time: 5870 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   TEST 8 PASSED! Back-to-back ops work
+Time: 5900 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note: 
+Time: 5900 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note: ========================================================
+Time: 5900 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   ALL TESTS COMPLETED!
+Time: 5900 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note: 
+Time: 5900 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   TEST 1: Keystream verified with Vector #1
+Time: 5900 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   TEST 2: Keystream verified with Vector #2
+Time: 5900 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   TEST 3-4: Counter auto-increment prevents direct verification
+Time: 5900 ns  Iteration: 0  Process: /present_ctr_tb/line__67  File: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd
+Note:   TEST 

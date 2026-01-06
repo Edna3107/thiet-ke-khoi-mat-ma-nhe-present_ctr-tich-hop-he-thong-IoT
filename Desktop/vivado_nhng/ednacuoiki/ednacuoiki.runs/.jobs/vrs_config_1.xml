@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="cuoiki_dlmb_bram_if_cntlr_0_synth_1" LaunchDir="C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.runs/cuoiki_dlmb_bram_if_cntlr_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="cuoiki_ilmb_v10_0_synth_1" LaunchDir="C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.runs/cuoiki_ilmb_v10_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="cuoiki_microblaze_0_0_synth_1" LaunchDir="C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.runs/cuoiki_microblaze_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="cuoiki_dlmb_v10_0_synth_1" LaunchDir="C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.runs/cuoiki_dlmb_v10_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="cuoiki_ilmb_v10_0_synth_1"/>
+	</Run>
+	<Run Id="cuoiki_ilmb_bram_if_cntlr_0_synth_1" LaunchDir="C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.runs/cuoiki_ilmb_bram_if_cntlr_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="cuoiki_xbar_0_synth_1" LaunchDir="C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.runs/cuoiki_xbar_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="cuoiki_clk_wiz_1_0_synth_1" LaunchDir="C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.runs/cuoiki_clk_wiz_1_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="cuoiki_rst_clk_wiz_1_100M_0_synth_1" LaunchDir="C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.runs/cuoiki_rst_clk_wiz_1_100M_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="cuoiki_mdm_1_0_synth_1" LaunchDir="C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.runs/cuoiki_mdm_1_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="cuoiki_lmb_bram_0_synth_1" LaunchDir="C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.runs/cuoiki_lmb_bram_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="cuoiki_axi_gpio_0_0_synth_1" LaunchDir="C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.runs/cuoiki_axi_gpio_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="cuoiki_present_ctr_0_0_synth_1" LaunchDir="C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.runs/cuoiki_present_ctr_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="cuoiki_axi_uartlite_0_0_synth_1" LaunchDir="C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.runs/cuoiki_axi_uartlite_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="synth_1" LaunchDir="C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado">
+		<Parent Id="cuoiki_dlmb_bram_if_cntlr_0_synth_1"/>
+		<Parent Id="cuoiki_ilmb_v10_0_synth_1"/>
+		<Parent Id="cuoiki_microblaze_0_0_synth_1"/>
+		<Parent Id="cuoiki_dlmb_v10_0_synth_1"/>
+		<Parent Id="cuoiki_ilmb_bram_if_cntlr_0_synth_1"/>
+		<Parent Id="cuoiki_xbar_0_synth_1"/>
+		<Parent Id="cuoiki_clk_wiz_1_0_synth_1"/>
+		<Parent Id="cuoiki_rst_clk_wiz_1_100M_0_synth_1"/>
+		<Parent Id="cuoiki_mdm_1_0_synth_1"/>
+		<Parent Id="cuoiki_lmb_bram_0_synth_1"/>
+		<Parent Id="cuoiki_axi_gpio_0_0_synth_1"/>
+		<Parent Id="cuoiki_present_ctr_0_0_synth_1"/>
+		<Parent Id="cuoiki_axi_uartlite_0_0_synth_1"/>
+	</Run>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+		<Parameter Name="runs.enableClusterConf" Val="true" Type="bool"/>
+	</Parameters>
+</Runs>
+

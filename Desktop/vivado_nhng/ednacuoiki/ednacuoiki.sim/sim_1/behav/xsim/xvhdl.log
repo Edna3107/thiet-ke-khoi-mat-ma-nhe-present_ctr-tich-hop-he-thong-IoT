@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/S88 Service/Downloads/hdl/present.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'present'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/S88 Service/Desktop/vivado_nhng/ttcscuoiki/ttcscuoiki.srcs/sources_1/new/present_ctr.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'present_ctr'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.srcs/sim_1/new/present_ctr_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'present_ctr_tb'

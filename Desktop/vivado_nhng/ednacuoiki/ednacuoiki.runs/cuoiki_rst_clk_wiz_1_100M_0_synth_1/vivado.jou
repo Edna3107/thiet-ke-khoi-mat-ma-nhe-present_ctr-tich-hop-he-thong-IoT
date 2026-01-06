@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Mon Jan  5 02:56:34 2026
+# Process ID: 26572
+# Current directory: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.runs/cuoiki_rst_clk_wiz_1_100M_0_synth_1
+# Command line: vivado.exe -log cuoiki_rst_clk_wiz_1_100M_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source cuoiki_rst_clk_wiz_1_100M_0.tcl
+# Log file: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.runs/cuoiki_rst_clk_wiz_1_100M_0_synth_1/cuoiki_rst_clk_wiz_1_100M_0.vds
+# Journal file: C:/Users/S88 Service/Desktop/vivado_nhng/ednacuoiki/ednacuoiki.runs/cuoiki_rst_clk_wiz_1_100M_0_synth_1\vivado.jou
+# Running On: edna, OS: Windows, CPU Frequency: 3294 MHz, CPU Physical cores: 12, Host memory: 7893 MB
+#-----------------------------------------------------------
+source cuoiki_rst_clk_wiz_1_100M_0.tcl -notrace
